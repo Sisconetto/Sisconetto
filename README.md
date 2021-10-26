@@ -1,7 +1,7 @@
 ## Olá, sou Lucas F. Sisconetto.
 
 
-- 🌱 Atualmente estou estudando desenvolvimento Back-end (c#) e analise de dados (python - pydata stack).
+- 🌱 Atualmente estudando desenvolvimento Back-end (c#) e analise de dados (python - pydata stack).
 - 🌱 Aprendendo também sobre metodologias ágeis (Scrum), versionamento (git/github), analise de requisitos, melhoria contínua dentre outros.
 - 📫 Contate-me no e-mail lucasfsisconetto@hotmail.com
 
